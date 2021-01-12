@@ -1,0 +1,9 @@
+# Mac OS stuff
+.DS_Store
+
+# Python cache
+*.pyc
+
+# Python virtual environments
+v387
+
