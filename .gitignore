@@ -7,3 +7,7 @@
 # Python virtual environments
 v387
 
+# Python package artifacts
+dist
+*.egg-info
+build
